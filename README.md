@@ -1,13 +1,11 @@
+<img src = 'https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif' width="600" height="600" alt = 'Awesome Matrix Code' align='right'/>
 <h1>Welcome to my page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  </h1> 
-
-<img src = 'https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AustinMoore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austin-c-moore)](https://www.linkedin.com/in/austin-c-moore/) [![Gmail Badge](https://img.shields.io/badge/-AustinChristianMoore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:austinchristianmoore@gmail.com)
 
 ## Current Projects
-* (insert link to open source work)
-* (insert link to open source work)
-* (insert link to open source work)
+* [Rails Engine](https://github.com/AustinCMoore/rails-engine)
+* [Viewing Party](https://github.com/AustinCMoore/viewing_party_lite)
 
 ## :computer: Programming Languages
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AustinCMoore&layout=compact">
