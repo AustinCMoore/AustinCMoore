@@ -1,7 +1,13 @@
 <h1>Welcome to my page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  </h1> 
 
 ## Who am I?
-<div style="text-align: left"> I'm Austin, a former Civil Engineering student who has transitioned into Web Development, where my love for building projects and learning new technologies has flourished. I learned to code at the Turing School of Software Design, where I specialized in back-end development. My hobbies include fitness, gaming, and talking about my two cats. I do my best work when working with others and I would love to connect with other coders who love to collaborate. My email is below, but feel free to explore the rest of my portfolio while you're here! </div>
+<div style="text-align: left"> Hi, I’m Austin — a backend developer with nearly 3 years of professional experience building and maintaining web applications.
+
+I work mostly with Ruby on Rails, PostgreSQL, MySQL, and AWS, and I have a growing interest in scalable system design, event-driven architecture (Kafka), and real-time data processing with tools like Redis and Elasticsearch.
+
+I’m passionate about writing clean, maintainable code and improving system performance. Whether it’s modernizing legacy apps, integrating third-party services like Stripe, or optimizing infrastructure, I love tackling technical challenges and building reliable systems.
+
+When I'm not coding, you’ll probably find me exploring new technologies, refining my skills, or digging into system design concepts. </div>
 
 Contact me: [![Gmail Badge](https://img.shields.io/badge/-AustinChristianMoore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:austinchristianmoore@gmail.com)
 
